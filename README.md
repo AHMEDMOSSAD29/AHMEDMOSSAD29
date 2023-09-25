@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Mosaad</h1>
 <h3 align="center">DevOps / Cloud / SysAdmin Engineer</h3>
-- 🌱 I’m currently learning : ** DevOps**
 
-- 📫 How to reach me : ** Ahmedmosaad112@std.mans.edu.eg**
-- 📄 Know about my experiences : ** https://www.linkedin.com/in/ahmed-mosaad-91239518a/**
+- 🌱 I’m currently learning :  DevOps
+- 📫 How to reach me :  Ahmedmosaad112@std.mans.edu.eg
+- 📄 Know about my experiences :  https://www.linkedin.com/in/ahmed-mosaad-91239518a/
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-mosaad-91239518a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AHMEDMOSSAD29" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
