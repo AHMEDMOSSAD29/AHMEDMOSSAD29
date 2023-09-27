@@ -15,7 +15,9 @@
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmed-mosaad-91239518a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AHMEDMOSSAD29" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto: Ahmedmosaad112@std.mans.edu.eg"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+  <a href="https://ahmedmosaad.my.canva.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7F00?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
+</div>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mosaad-91239518a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mosaad-91239518a/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100009541740932" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009541740932" height="30" width="40" /></a></p>
 
