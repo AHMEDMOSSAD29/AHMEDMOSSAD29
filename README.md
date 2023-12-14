@@ -5,7 +5,6 @@
 
 
 ###
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed Mosaad</h1>
 <h3 align="center">DevOps / Cloud / SysAdmin Engineer</h3>
 
 - 🌱 I’m currently learning :  DevOps
