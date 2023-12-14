@@ -1,4 +1,4 @@
-<img src="github-header-image.png" width="100%" />
+<img src="HI.gif" width="100%" />
 <div align="center">
   <img height="150" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif"  />
 </div>
